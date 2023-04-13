@@ -1,0 +1,24 @@
+nav{
+    background-color: black;
+    font-size: 65%;
+    text-align: center;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+body{
+    background-color: rgb(160, 151, 151);
+}
+
+
+div{
+    text-align: center;
+}
+
+.p1{
+    margin:100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

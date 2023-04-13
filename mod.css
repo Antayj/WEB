@@ -1,0 +1,17 @@
+nav{
+    background-color: black;
+    font-size: 65%;
+    text-align: center;
+}
+
+body{
+    background-color: bisque;
+}
+
+p{
+    text-align: center;
+    background-color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 65px;
+}
+
